@@ -1,7 +1,5 @@
 #include <stdio.h>
 
-<<<<<<< HEAD
-
 /**
  * main - It is Fizz-Buzz test
  * Return: print results
@@ -43,5 +41,4 @@ int main(void)
 	}
 	printf("\n");
 	return (0);
->>>>>>> bcbbdddacb50fc929e423b95e635ca0231cccbdd
 }
